@@ -8,3 +8,4 @@ Link for dataset https://raw.githubusercontent.com/MintForever/CS4774/master/ins
 3.	Clustering with K-Mean Algorithm link to download the dataset  https://www.kaggle.com/camnugent/california-housing-prices
 4.	Build a neural network of XOR dataset, In this assignment you will be able to implement your own neural network for XOR dataset. 
 The link for this dataset https://www.kaggle.com/datasets/bipinmaharjan/xor-dataset
+(Answer in ci1,ci2,ci3,ci4 ipynbs)
